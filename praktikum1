@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="lightblue">
+    <tittle>world wide web</tittle>
+        <CENTER><h1>definis_world wide web</h1></CENTER>
+        <P ALIGN="left">www adalah layanan yang paling sering digunakan dan 
+            memiliki perkembangan yang sangat cepat karena dengan
+             layanan inin kita bisa menerima informasi dalam berbagai format (multipedia).
+              untuk mengakses layanan www cari sebuah komputer (yang disebut www server atau web server) 
+              digunakan program web client yang disebut web browser atau browser saja. jenis-jenis browser
+               yang sering digunakan adalah : Netscape Navigator/comunicator,internetExplorer NCSA Mosaic,Arena,Lynx,
+               dan lain lain.
+        <P ALIGN="RIGHT">
+            surfing merupakan istilah umum yang digunakan bila menjelajahi dunia maya atau web.Tampilan web yang sangat
+            artistik yang tidak hanya menampilkan teks tapi juga gambar-gambar yang di tata sedemikian rupa
+            sehingga selalu membuat betah netter untuk surfing berjam-jam.karena itu para netter harus sangat
+            memperhitungkan rencana web mana saja yang akan dikunjungi atau batasi informasi yang ingin diakses,
+             karena bila tidak netter akan tersesat kedalam rimba informasi yang maha luas.
+        </P>
+    </body>
+</head>
+</body>
+</html>
